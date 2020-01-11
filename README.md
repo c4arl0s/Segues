@@ -2,6 +2,8 @@
 
 # Perform Segues
 
+With segues, you can use IB to define how one scene will transition to another. This works only in storyboards, bot nibs.
+
 # Custom Transitions (between view controllers)
 
 There is two kind of transitions:
