@@ -2,7 +2,7 @@
 
 ### Transitions between scenes.
 
-With segues, you can use IB to define how one scene will transition to another. This works only in storyboards, bot nibs.
+With segues, you can use IB to define how one scene will transition to another. This works only in storyboards, not nibs.
 
 # Perform Segues
 
