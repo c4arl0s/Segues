@@ -60,5 +60,6 @@ There is two kind of transitions:
 @end
 ```
 
+![segue](https://user-images.githubusercontent.com/24994818/72669200-a5854700-39f4-11ea-9f3c-a2a59f2591f1.gif)
 
 
